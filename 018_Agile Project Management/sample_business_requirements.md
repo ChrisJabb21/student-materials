@@ -4,6 +4,13 @@
 
 *Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
 
+This document outlines the requirements for the development of a web application that will allow the end-users to connect and interact with each other for the purpose of collabarating with each other for projects to work on. 
+
+The process is will be laid out in concise detail for implementing all the components needed for the project through the use of the waterfall method. It will explain 
+
+
+
+
 ## Business Objectives
 
 *Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
