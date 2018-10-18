@@ -116,8 +116,6 @@ When the app is launched and the customer is using the app itself.  As problems 
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
-
 *The risks that can be appear in the development of creating the project can be problems with the search engine for the web app in getting the search queries to display results. Another risk can be the students perception of the web app and whatever it is necessary or necessity when compared to other options of communications. So because of this, it would be good to consider feedback from the users and look at the web app with the perspective of the users to see if the software solution is worth the effort, value, and return on investment.*
 
 *Another thing to consider for this web app is considering access control permissions for users and proper  web security measures are in place for using the web app.*
